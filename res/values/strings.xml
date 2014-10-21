@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MedicalMinder</string>
+    <string name="medical_title_hint">Click to add a new Dr. Appointment</string>
+    
+
+</resources>
